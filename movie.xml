@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Mediateka>
+    <movie>
+        <title>Мстители</title>
+        <director>Джосс Уидон</director>
+        
+    </movie>
+    <movie>
+        <title>Стражи галактики</title>
+        <director>Джеймс Ганн</director>
+        <year>2014</year>
+    </movie>
+<movie><title>Люди Икс</title><director>Брайан Сингер</director></movie></Mediateka>
